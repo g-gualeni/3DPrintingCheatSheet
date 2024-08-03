@@ -11,8 +11,13 @@ Holes How to
 
 6mm Holes / screws
 --> Pass through: 6.2 for a 6 mm screw
---> Hiding a 6 mm cilindrical screw: ???
+--> Hiding a 6 mm cilindrical screw: diameter 10 mm, deept 6 mm
 --> for metric threads with good grip use 5.80 mm
+
+
+Screws size table
+https://www.gberardi.com/catalogo-prodotti/prodotto/vite-testa-cilindrica-con-esagono-incassato-din-912-uni-5931-iso-4762-cl129/
+
 
 
 
