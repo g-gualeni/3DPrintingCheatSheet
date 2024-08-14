@@ -17,6 +17,10 @@ Holes How to
 --> for metric threads with good grip use 5.80 mm
 
 
+1/4-20UNC
+--> Pass through: 6.50 mm
+
+
 Screws size table
 https://www.gberardi.com/catalogo-prodotti/prodotto/vite-testa-cilindrica-con-esagono-incassato-din-912-uni-5931-iso-4762-cl129/
 
