@@ -20,6 +20,7 @@ Holes How to
 1/4-20UNC
 --> Pass through: 6.50 mm
 --> Threads: 6.2 mm
+--> Hiding a 1/4-20UNC mm cilindrical screw: diameter 10 mm, deept 6 mm
 
 
 Screws size table
