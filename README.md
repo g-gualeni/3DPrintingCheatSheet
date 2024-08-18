@@ -5,7 +5,7 @@ Holes How to
 3 mm Holes / screws
 --> Pass through: 3.2 for a 3 mm screw
 --> threads: 2.8 mm
---> Hiding a 3 mm cilindrical screw: diameter 6mm, deept 3.5 mm
+--> Hiding a 3 mm cilindrical screw: diameter 6mm, deept 3.2 mm (not 3.5)
 
 4mm Holes
 --> Pass through: 4.2 for a 4 mm screw
