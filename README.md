@@ -17,6 +17,8 @@ Holes How to
 --> for metric threads with good grip use 5.80 mm
 
 
+
+
 1/4-20UNC
 --> Pass through: 6.50 mm
 --> Threads: 6.2 mm
@@ -33,5 +35,10 @@ Part mating
 --> Consider a 0.2 gap or the mate is too tight
 
 
+Heat Set Inserts
+Put the Inserts in the printer, on the Heated bed. this could be enough to instert it
+
+For 6 mm screws
+-> M6x10, 8 mm diameter: use 7.5 mm diameter
 
 
