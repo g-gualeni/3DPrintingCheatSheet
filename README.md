@@ -21,17 +21,11 @@
 --> Threads: 6.2 mm
 --> Hiding a 1/4-20UNC mm cilindrical screw: diameter 10 mm, deept 6.4 mm
 
-
-
 # Screws size table
 https://www.gberardi.com/catalogo-prodotti/prodotto/vite-testa-cilindrica-con-esagono-incassato-din-912-uni-5931-iso-4762-cl129/
 
-
-
-
 # Part mating
 --> Consider a 0.2 gap or the mate is too tight
-
 
 # Heat Set Inserts
 Put the Inserts in the printer, on the Heated bed. this could be enough to instert it
