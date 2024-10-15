@@ -41,4 +41,6 @@ Put the Inserts in the printer, on the Heated bed. this could be enough to inste
 
 
 # Filament Drying
-PETG	70°C	2 h
+PLA-Basic	60°C 	2h
+PETG-HF		70°C	2h
+
