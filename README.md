@@ -35,6 +35,9 @@ https://www.gberardi.com/catalogo-prodotti/prodotto/vite-testa-cilindrica-con-es
 # Heat Set Inserts
 Put the Inserts in the printer, on the Heated bed. this could be enough to instert it
 
+## For 3 mm screws
+	M3x5.7, 4.6 mm diameter: use 4.1 mm diameter 
+
 ## For 6 mm screws
 -> M6x10, 8 mm diameter: use 7.5 mm diameter
 
