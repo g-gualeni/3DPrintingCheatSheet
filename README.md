@@ -24,6 +24,12 @@
 # Screws size table
 https://www.gberardi.com/catalogo-prodotti/prodotto/vite-testa-cilindrica-con-esagono-incassato-din-912-uni-5931-iso-4762-cl129/
 
+# Text on models
+8 mm height, Bold, 0.5 mm Embossed
+4 mm height, Bold, 0.5 mm Embossed
+
+
+
 
 
 # Part mating
