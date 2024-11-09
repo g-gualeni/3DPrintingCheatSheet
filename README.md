@@ -25,17 +25,19 @@
 https://www.gberardi.com/catalogo-prodotti/prodotto/vite-testa-cilindrica-con-esagono-incassato-din-912-uni-5931-iso-4762-cl129/
 
 # Text on models
-8 mm height, Bold, 0.5 mm Embossed
-4 mm height, Bold, 0.5 mm Embossed
+8 mm height, Bold, 0.5 mm Embossed - good readabilty
+4 mm height, Bold, 0.5 mm Embossed - difficult to read.
+If possible use extruded, it is way better.
 
-
-
+# screw Slot
+How big should be a slot to allow the insertion of a screw driver?
+5 mm Wide for the blade
+2 mm deep
+2 mm or more to enter and being able to apply a force.
 
 
 # Part mating
 --> Consider a 0.2 gap or the mate is too tight
-
-
 
 
 # Heat Set Inserts
