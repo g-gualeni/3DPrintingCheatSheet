@@ -5,7 +5,7 @@
 ## 3 mm Holes / screws
 --> Pass through: 3.2 for a 3 mm screw
 --> threads: 2.8 mm
---> Hiding a 3 mm cilindrical screw: diameter 6mm, deep 3.2 mm (not 3.5)
+--> Hiding a 3 mm cilindrical screw: diameter 5.90 mm (not 6), deep 3.2 mm (not 3.5)
 --> Embossed nuts: 6.5 mm diameter inscribed hexagon, 2 mm deep
 
 ## 4mm Holes
