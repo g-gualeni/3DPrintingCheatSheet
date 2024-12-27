@@ -57,3 +57,19 @@ PETG-HF				70°C	2h
 PC (Polycarbonate)  70°C 	8h (my dryer can't reach 80 Deg)
 
 
+# Suggested SKU
+PLA-Basic Red         (10200 - #C12E1F)
+PLA-Basic Gray        (10103 - #8E9089)
+PLA-Basic Blue        (10601 - #0A2989)
+PLA-Basic Bambu Green (10501 - #16C344)
+PLA-Basic Orange      (10300 - #FF6A13)
+PLA-Basic Yellow      (10400 - #F4EE2A)
+PLA-Basic Black       (10101 - #000000)
+PLA-Basic Jade White  (10100 - #FFFFFF)
+
+PC-Filament Transparent (60130)
+
+PETG-HF Black
+PETG-HF Gray
+PETG-HF White
+PETG-HF Green
