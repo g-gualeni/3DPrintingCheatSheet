@@ -27,7 +27,7 @@ https://www.gberardi.com/catalogo-prodotti/prodotto/vite-testa-cilindrica-con-es
 # Text on models
 8 mm height, Bold, 0.5 mm Embossed - good readabilty
 4 mm height, Bold, 0.5 mm Embossed - difficult to read.
-If possible use extruded, it is way better.
+If possible use 0.5 extruded with a clearance area, it is way better.
 
 # screw Slot
 How big should be a slot to allow the insertion of a screw driver?
