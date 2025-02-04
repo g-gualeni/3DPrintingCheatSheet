@@ -10,6 +10,7 @@
 
 ## 4mm Holes
 --> Pass through: 4.2 for a 4 mm screw
+--> Hiding a 4 mm cilindrical screw: diameter 7 mm, dept 4 mm
 
 ## 6mm Holes / screws
 --> Pass through: 6.2 for a 6 mm screw
