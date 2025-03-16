@@ -1,13 +1,19 @@
-3DMetricDimensionsReferenceKit
-	3D Holes and Pins Kit	
-		Aggiornare, mancano le foto
-	3D Reference Caliper		
-		Aggiornare, mancano le foto
-
-3rdPartyProjects
-	OK
+#Folder Template:
+	3D Models
+	3D Models ReadyToPrint
+	Photo
 	
-Ceiling Lamp											
+#Project List
+3DMetricDimensionsReferenceKit
+	3D Holes and Pins Kit				**OK**
+		
+	3D Screw Reference Caliper			**OK**
+		
+
+3rdPartyProjects						**OK**
+	
+**Ceiling Lamp	-- WIP**
+	Manca il file di progetto
 	Aggiornare mancano i files
 
 CeilingLightHolder										
