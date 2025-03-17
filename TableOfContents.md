@@ -4,18 +4,16 @@
 	Photo
 	
 #Project List
-3DMetricDimensionsReferenceKit
-	3D Holes and Pins Kit				**OK**
+- 3DMetricDimensionsReferenceKit
+	 - 3D Holes and Pins Kit				**OK**
 		
-	3D Screw Reference Caliper			**OK**
+	 - 3D Screw Reference Caliper			**OK**
 		
 
-3rdPartyProjects						**OK**
+- 3rdPartyProjects						**OK**
 	
-**Ceiling Lamp	-- WIP**
-	Manca il file di progetto
-	Aggiornare mancano i files
-
+- Ceiling Lamp							**OK**
+	
 CeilingLightHolder										
 	Aggiornare mancano file e immagini
 
