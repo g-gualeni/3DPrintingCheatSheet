@@ -15,6 +15,8 @@
 
 - Project Goals
 
+- 3D Printer layout
+
 - Reference
 
 
@@ -75,7 +77,15 @@
 		Spostare in Kaiserstand		
 		
   - [ ] **KaiserStandBracket**
-		Controllare e Aggiornare
+		
+		- [ ] **KaiserStandBracket v3.0**
+			Manca foto montato
+			Finire il documento
+			
+		- [ ] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
+			Finire
+			Mostrare con una FS80 installata
+		
 	
 - [ ] **LabStorage GridFinity**
 	Controllare
