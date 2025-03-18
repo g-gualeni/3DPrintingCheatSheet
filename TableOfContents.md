@@ -1,21 +1,37 @@
-# Folder Template:
-- 3D Models
-- 3D Models ReadyToPrint
-- Photo
-	
-# Project List
-- 3DMetricDimensionsReferenceKit
-	 - 3D Holes and Pins Kit				**OK**
-		
-	 - 3D Screw Reference Caliper			**OK**
-		
+# Table of contents
 
-- 3rdPartyProjects						**OK**
+## Folder Template
+
+- 3D Models
+
+- 3D Models ReadyToPrint
+
+- Photo
+
+
+## Document Template
+
+- Title
+
+- Project Goals
+
+- Reference
+
+
+## Project List
+
+- 3DMetricDimensionsReferenceKit: this is a collection of 3D Printed Calipers
+
+  - [x] 3D Holes and Pins Kit
+
+  - [x] 3D Screw Reference Caliper
 	
-- Ceiling Lamp							**OK**
+- [x] 3rdPartyProjects							
 	
-CeilingLightHolder										
-	Aggiornare mancano file e immagini
+- [x] Ceiling Lamp								
+	
+- [x]CeilingLightHolder											
+	
 
 Fermaporte												
 	Manca tutto
@@ -51,7 +67,7 @@ LabBrackets
 		OK ma aggiungere rifermento al fatto che è confluito 
 		in FS40+FS80 Pivot Bracket	
 		
-	FS80 UltraLight Pivot Bracket	
+	FS80 UltraLight Pivot Bracket	**WIP**
 		In lavorazione attuìalmente		
 		
 	GeneralPurposeMountingBlock
@@ -59,6 +75,7 @@ LabBrackets
 		Spostare in Kaiserstand		
 		
 	KaiserStandBracket
+		Controllare e Aggiornare
 	
 LabStorage GridFinity
 	Controllare
