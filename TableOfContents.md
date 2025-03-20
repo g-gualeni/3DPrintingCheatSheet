@@ -15,13 +15,20 @@
 
 - Project Goals
 
+- Design
+  
+  - <Component Name> Sketch
+  
+  - <Component Name> 3D Model
+
 - 3D Printer layout
+
+- Final Result
 
 - Reference
 
 
 ## Project List
-
 
 - **3DMetricDimensionsReferenceKit:** this is a collection of 3D Printed Calipers
 
@@ -42,11 +49,10 @@
 	Manca Doc
 
 - **LabBrackets:**
-  - [ ] **4Sight EV7 Brackets:**
-		Mancano immagini e files	
-		
+  - [x] **4Sight EV7 Brackets:** Mounting Bracket for Amazon Pegboard
+				
   - [ ] **Bosch Profiles**
-		Aggiornare
+		Aggiornare, inserire il doc e le Photo
 		
   - [ ] **CV60CameraHolder**
 		Manca tutto 		
@@ -108,4 +114,4 @@
 	Controllare
 	
 
-	
+--> 19 Da Finire di documentare.
