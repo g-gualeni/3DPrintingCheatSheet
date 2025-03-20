@@ -83,10 +83,10 @@
 		Spostare in Kaiserstand		
 		
   - [ ] **KaiserStandBracket**
-		
-		- [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand
+
+    - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand
 			
-		- [ ] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
+    - [ ] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
 			Finire
 			Mostrare con una FS80 installata
 		
