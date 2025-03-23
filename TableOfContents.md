@@ -87,13 +87,19 @@
     - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand
 			
     - [x] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
-					
+				
+
+  - [ ] **Netgear Switch Stand:**
+		Rivedere il Doc
+
 	
 - [ ] **LabStorage GridFinity**
 	Controllare
 	
 - [ ] **LabStorage Stanley Sort Master**
 	Controllare
+	Mancano le foto
+	Il Doc non è finito
 	
 - [x] **Powerbank Holder:** simple holder to connect a power bank to a metal frame.
 
@@ -107,10 +113,12 @@
 - [x] **TableBoots:** Small Adapter to compensate uneven floor 
 		
 - [ ] **TableFan:**
-	Controllare
+	FInire il documento
+	Mancano i modelli 3D e i modelli da stampare
 	
 - [ ] **Wall Lamp:**
-	Controllare
+	Finire il documento
+	Mancano i modelli
 	
 
 --> 15 Da Finire di documentare.
