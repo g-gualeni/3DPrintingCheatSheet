@@ -57,9 +57,8 @@
   - [ ] **CV60CameraHolder**
 		Manca tutto 		
 		
-  - [ ] **Expansion Anchor**
-		Migliorare il documento	
-		
+  - [x] **Expansion Anchor:** this is a simple anchor that expands thanks to a 3 mm screw and lock into a Pegboard.
+				
   - [ ] **FS40 Multi Support**	
 		Mancano tutti i file della versione 4	
 		Rivedere tutta la documentazione
