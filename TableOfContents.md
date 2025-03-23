@@ -83,7 +83,7 @@
 		Manca quasi tutto
 		Spostare in Kaiserstand		
 		
-  - [ ] **KaiserStandBracket**
+  - **KaiserStandBracket**
 
     - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand
 			
@@ -103,9 +103,8 @@
 	
 - [x] **Sugar Jar Cap:** very simple cap for a sugar jar.
 
-- [ ] **TableBoots:**
-	Controllare
-	
+- [x] **TableBoots:** Small Adapter to compensate uneven floor 
+		
 - [ ] **TableFan:**
 	Controllare
 	
@@ -113,4 +112,5 @@
 	Controllare
 	
 
---> 19 Da Finire di documentare.
+--> 17 Da Finire di documentare.
+
