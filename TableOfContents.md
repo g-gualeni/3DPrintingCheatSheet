@@ -42,7 +42,7 @@
 	
 - [x] **CeilingLightHolder:** simple handle to hook a Ceiling light to a Manfrotto arm.											
 	
-- [ ] **Fermaporte:** 
+- [ ] **Door Locker:** This is a small hook that can prevent doors to splash.
 	Manca tutto
 
 - [ ] **Kitchen Drawer Organizer:**
@@ -103,9 +103,8 @@
 	
 - [x] **Sugar Jar Cap:** very simple cap for a sugar jar.
 
-- [ ] **Table Distance Keeper:** very simple spacer to fix the table distance from the wall
-		Da fare
-
+- [x] **Table Distance Keeper:** very simple spacer to fix the table distance from the wall
+		
 - [x] **TableBoots:** Small Adapter to compensate uneven floor 
 		
 - [ ] **TableFan:**
@@ -115,5 +114,5 @@
 	Controllare
 	
 
---> 17 Da Finire di documentare.
+--> 15 Da Finire di documentare.
 
