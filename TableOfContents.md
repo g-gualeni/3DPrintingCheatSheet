@@ -62,14 +62,15 @@
 		
   - [ ] **FS40 Multi Support**	
 		Mancano tutti i file della versione 4	
+		Rivedere tutta la documentazione
 		
-  - [ ] **FS40 Pivot Bracket**
-		Manca tutto per la versione 4.0
-		Ma forse il progetto è stato abbandonato, quindi marcarlo come 
-		superato da FS40+FS80 Pivot Bracket	
+		
+  - **FS40 Pivot Bracket**
+    - [ ] **FS40 Pivot Bracket 3.0**
+		La documentazione è da finire
 		
   - [ ] **FS40+FS80 Pivot Bracket**
-		Controllare, ma potrebbe essere quasi OK		
+		Finire la documentazione e mancano le foto
 		
   - [ ] **FS80 Pivot Bracket**
 		OK ma aggiungere rifermento al fatto che è confluito 
@@ -86,10 +87,8 @@
 
     - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand
 			
-    - [ ] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
-			Finire
-			Mostrare con una FS80 installata
-		
+    - [x] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
+					
 	
 - [ ] **LabStorage GridFinity**
 	Controllare
