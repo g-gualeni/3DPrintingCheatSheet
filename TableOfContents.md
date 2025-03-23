@@ -96,12 +96,15 @@
 - [ ] **LabStorage Stanley Sort Master**
 	Controllare
 	
-- [ ] **Powerbank Holder:** simple holder to connect a power bank to a metal frame.
+- [x] **Powerbank Holder:** simple holder to connect a power bank to a metal frame.
 
 - [ ] **Sink Organizer:**
 	**WIP**
 	
 - [x] **Sugar Jar Cap:** very simple cap for a sugar jar.
+
+- [ ] **Table Distance Keeper:** very simple spacer to fix the table distance from the wall
+		Da fare
 
 - [x] **TableBoots:** Small Adapter to compensate uneven floor 
 		
