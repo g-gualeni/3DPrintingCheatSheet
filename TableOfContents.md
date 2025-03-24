@@ -44,9 +44,8 @@
 	
 - [x] **Door Locker:** This is a small hook that can prevent doors to splash.	
 
-- [ ] **Kitchen Drawer Organizer:**
-	Manca Doc
-
+- [x] **Kitchen Drawer Organizer:**
+	
 - **LabBrackets:**
   - [x] **4Sight EV7 Brackets:** Mounting Bracket for Amazon Pegboard
 				
@@ -120,5 +119,5 @@
 	Mancano i modelli
 	
 
---> 14 Da Finire di documentare.
+--> 13 Da Finire di documentare.
 
