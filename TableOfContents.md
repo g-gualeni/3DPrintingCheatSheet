@@ -42,8 +42,7 @@
 	
 - [x] **CeilingLightHolder:** simple handle to hook a Ceiling light to a Manfrotto arm.											
 	
-- [ ] **Door Locker:** This is a small hook that can prevent doors to splash.
-	Manca tutto
+- [x] **Door Locker:** This is a small hook that can prevent doors to splash.	
 
 - [ ] **Kitchen Drawer Organizer:**
 	Manca Doc
@@ -121,5 +120,5 @@
 	Mancano i modelli
 	
 
---> 15 Da Finire di documentare.
+--> 14 Da Finire di documentare.
 

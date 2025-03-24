@@ -52,6 +52,9 @@ Put the Inserts in the printer, on the Heated bed. this could be enough to inste
 -> M6x10, 8 mm diameter: use 7.5 mm diameter
 
 
+# Filament Printing
+PETG-HF: set the extrusion temperature to 250°C makes the result more stiff and flexible
+
 
 # Filament Drying
 PLA-Basic			60°C 	2h
