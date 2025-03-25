@@ -25,6 +25,8 @@
 
 - Final Result
 
+- For the next iteration
+
 - Reference
 
 
@@ -76,16 +78,20 @@
   - [ ] **FS80 UltraLight Pivot Bracket:**	**WIP**
 		In lavorazione attuìalmente		
 		
-  - [ ] **GeneralPurposeMountingBlock**
-		Manca quasi tutto
-		Spostare in Kaiserstand		
 		
   - **KaiserStandBracket**
-
-    - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand
-			
+  		
     - [x] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
-				
+
+    - [ ] **GeneralPurposeMountingBlock A**
+		Manca Photo
+			
+    - [x] **GeneralPurposeMountingBlock B**
+
+    - [ ] **KaiserStandBracket 1.0**
+		Manca documentazione			
+	
+    - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand		
 
   - [x] **Netgear Switch Stand:** this is a kit to attache a Netgear Switch to the Pegboard.		
 	
@@ -112,10 +118,11 @@
 	FInire il documento
 	Mancano i modelli 3D e i modelli da stampare
 	
-- [ ] **Wall Lamp:**
-	Finire il documento
-	Mancano i modelli
+- [x] **Wall Lamp:**
 	
 
---> 13 Da Finire di documentare.
+--> 11 Da Finire di documentare.
+--> 2 Progetti da completare
+
+
 
