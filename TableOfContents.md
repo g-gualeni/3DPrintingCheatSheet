@@ -87,9 +87,7 @@
     - [x] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
 				
 
-  - [ ] **Netgear Switch Stand:**
-		Rivedere il Doc
-
+  - [x] **Netgear Switch Stand:** this is a kit to attache a Netgear Switch to the Pegboard.		
 	
 - [ ] **LabStorage GridFinity**
 	Controllare
