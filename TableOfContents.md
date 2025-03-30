@@ -53,10 +53,7 @@
 				
   - [ ] **Bosch Profiles**
 		Aggiornare, inserire il doc e le Photo
-		
-  - [ ] **CV60CameraHolder**
-		Manca tutto 		
-		
+			
   - [x] **Expansion Anchor:** this is a simple anchor that expands thanks to a 3 mm screw and lock into a Pegboard.
 				
   - [ ] **FS40 Multi Support**	
@@ -80,18 +77,20 @@
 		
 		
   - **KaiserStandBracket**
+
+	- [ ] **CV60CameraHolder:** 	**WIP** Create a CV60 holder for Kaiserstand Bracket
+		Manca tutto 		
   		
     - [x] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
 
-    - [ ] **GeneralPurposeMountingBlock A**
-		Manca Photo
+    - [x] **GeneralPurposeMountingBlock A**
 			
     - [x] **GeneralPurposeMountingBlock B**
 
-    - [ ] **KaiserStandBracket 1.0**
-		Manca documentazione			
+    - [x] **KaiserStandBracket 1.0**		
 	
     - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand		
+	
 
   - [x] **Netgear Switch Stand:** this is a kit to attache a Netgear Switch to the Pegboard.		
 	
@@ -121,8 +120,8 @@
 - [x] **Wall Lamp:**
 	
 
---> 11 Da Finire di documentare.
---> 2 Progetti da completare
+--> 8 Da Finire di documentare.
+--> 3 Progetti da completare
 
 
 
