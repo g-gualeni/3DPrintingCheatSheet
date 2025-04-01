@@ -51,10 +51,10 @@
 - **LabBrackets:**
   - [x] **4Sight EV7 Brackets:** Mounting Bracket for Amazon Pegboard
 				
-  - [ ] **Bosch Profiles**
-		Aggiornare, inserire il doc e le Photo
-			
   - [x] **Expansion Anchor:** this is a simple anchor that expands thanks to a 3 mm screw and lock into a Pegboard.
+
+  - [ ] **Frame Profiles for Field Applications:** collection of most used profiles for field applications.
+		
 				
   - [ ] **FS40 Multi Support**	
 		Mancano tutti i file della versione 4	
@@ -119,7 +119,7 @@
 	
 
 --> 8 Da Finire di documentare.
---> 3 Progetti da completare
+--> 2 Progetti da completare
 
 
 
