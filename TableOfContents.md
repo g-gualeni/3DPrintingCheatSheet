@@ -46,7 +46,7 @@
 	
 - [x] **Door Locker:** This is a small hook that can prevent doors to splash.	
 
-- [x] **Kitchen Drawer Organizer:**
+- [x] **Kitchen Drawer Organizer:** Simple plate used to separate silverware in the drawer.
 	
 - **LabBrackets:**
   - [x] **4Sight EV7 Brackets:** Mounting Bracket for Amazon Pegboard
@@ -78,20 +78,18 @@
 		
   - **KaiserStandBracket**
 
-	- [ ] **CV60CameraHolder:** 	**WIP** Create a CV60 holder for Kaiserstand Bracket
-		Manca tutto 		
+	- [x] **CV60CameraHolder 2.0:** Create a CV60 holder for Kaiserstand Bracket
   		
     - [x] **FS40+FS80 Kaiser Adapter:** adapter that convert the Kaiserstand Bracketin into a Bracket for FS40 or FS80
 
-    - [x] **GeneralPurposeMountingBlock A**
+    - [x] **GeneralPurposeMountingBlock A:** Mounting block to create a 90°, 10x10 mm fixture
 			
-    - [x] **GeneralPurposeMountingBlock B**
+    - [x] **GeneralPurposeMountingBlock B** Mounting block to create a 90° thin fixture
 
-    - [x] **KaiserStandBracket 1.0**		
+    - [x] **KaiserStandBracket 1.0:**	See KaiserStandBracket v3.0
 	
     - [x] **KaiserStandBracket v3.0:** this is a fixture that simplify attaching a camera or a light to the Kaiserstand		
 	
-
   - [x] **Netgear Switch Stand:** this is a kit to attache a Netgear Switch to the Pegboard.		
 	
 - [ ] **LabStorage GridFinity**
