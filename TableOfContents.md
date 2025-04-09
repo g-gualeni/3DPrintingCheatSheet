@@ -54,18 +54,16 @@
   - [x] **Expansion Anchor:** this is a simple anchor that expands thanks to a 3 mm screw and lock into a Pegboard.
 
   - [ ] **Frame Profiles for Field Applications:** collection of most used profiles for field applications.
-		
-				
+					
   - [ ] **FS40 Multi Support**	
 		Mancano tutti i file della versione 4	
 		Rivedere tutta la documentazione
-		
-		
+				
   - **FS40 Pivot Bracket**
     - [ ] **FS40 Pivot Bracket 3.0**
 		La documentazione è da finire
-		
-  - [ ] **FS40+FS80 Pivot Bracket**
+		 
+  - [ ] **FS40+FS80+FS10 Pivot Bracket:** this is an unified bracket that support FS10, FS40, FS80 for demoing purpose.
 		Finire la documentazione e mancano le foto
 		
   - [ ] **FS80 Pivot Bracket**
