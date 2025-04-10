@@ -63,8 +63,7 @@
     - [ ] **FS40 Pivot Bracket 3.0**
 		La documentazione è da finire
 		 
-  - [ ] **FS40+FS80+FS10 Pivot Bracket:** this is an unified bracket that support FS10, FS40, FS80 for demoing purpose.
-		Finire la documentazione e mancano le foto
+  - [x] **FS40+FS80+FS10 Pivot Bracket:** this is an unified bracket that support FS10, FS40, FS80 for demoing purpose.
 		
   - [ ] **FS80 Pivot Bracket**
 		OK ma aggiungere rifermento al fatto che è confluito 
