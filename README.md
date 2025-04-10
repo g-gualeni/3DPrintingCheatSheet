@@ -53,7 +53,9 @@ Put the Inserts in the printer, on the Heated bed. this could be enough to inste
 
 
 # Filament Printing
-PETG-HF: set the extrusion temperature to 250°C makes the result more stiff and flexible
+PETG-HF: 
+ -> set the extrusion temperature to 240 First 250°C Others makes the result more stiff and flexible
+ -> use the textured plate not the smooth plate because it is too adehesive.
 
 
 # Filament Drying
